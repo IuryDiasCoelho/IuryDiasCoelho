@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
-- ❔ Aberto a perguntas.
+- ❔ Aberto a perguntas.<br>
 
 
 <div align="center">
