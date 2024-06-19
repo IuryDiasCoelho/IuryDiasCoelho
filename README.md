@@ -1,12 +1,12 @@
 ### Olá!!! ###
-<img align="right" alt="art" height="150" style="border-radius:50px;" src="![download](https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3)
- ">
- ![título](https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3)
+<img align="right" alt="art" height="150" style="border-radius:50px;" src="https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3">
+
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
 - ❔ Aberto a perguntas.<br>
-<br>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-dias-coelho-5009a6298/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562999692700?text=)
 <br>
 <div align="center">
   <a href="https://github.com/IuryDiasCoelho">
