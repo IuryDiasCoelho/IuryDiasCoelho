@@ -1,5 +1,6 @@
 ### Olá!!! ###
-<img align="right" alt="art" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://blackberet.com.br/wp-content/uploads/2020/07/black-beret-forcas-especiais-7.jpg)">
+<img align="right" alt="art" height="150" style="border-radius:50px;" src="![download](https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3)
+ ">
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
