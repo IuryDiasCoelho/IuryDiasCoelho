@@ -1,6 +1,7 @@
 ### Olá!!! ###
 <img align="right" alt="art" height="150" style="border-radius:50px;" src="![download](https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3)
  ">
+ ![título](https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3)
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
