@@ -1,11 +1,11 @@
 ### Olá!!! ###
-<img align="right" alt="art" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-ZkCngoxktqXBNtG7qXtEKGkF-Vomu_tfw&usqp=CAU)">
+<img align="right" alt="art" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://blackberet.com.br/wp-content/uploads/2020/07/black-beret-forcas-especiais-7.jpg)">
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
 - ❔ Aberto a perguntas.<br>
-
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/IuryDiasCoelho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IuryDiasCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
