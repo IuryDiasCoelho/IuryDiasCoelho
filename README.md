@@ -3,6 +3,7 @@
 
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
+- 📚 Estudando Desenvolvimento Web e Mobile pela EFG <br>
 - 💬 Procuro oportunidade na área de tecnologia. <br>
 - ❔ Aberto a perguntas.<br>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-dias-coelho-5009a6298/)
@@ -21,5 +22,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
