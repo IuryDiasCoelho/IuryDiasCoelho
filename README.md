@@ -4,7 +4,7 @@
 - 🔭 Trabalho atualmente no Exército Brasileiro. <br>
 - 📚 Estudando Engenharia de Software pela Estácio. <br>
 - 📚 Estudando Desenvolvimento Web e Mobile pela EFG. <br>
-- 💬 Procuro oportunidade na área de tecnologia. <br>
+- 💬 A procura de oportunidade na área de tecnologia. <br>
 - ❔ Aberto a perguntas.<br>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-dias-coelho-5009a6298/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562999692700?text=)
