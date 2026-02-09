@@ -1,5 +1,5 @@
 # Olá! 👋 Eu sou o Iury Dias Coelho
-<img align="right" alt="perfil" height="150" style="border-radius:50px;" src="https://github.com/IuryDiasCoelho/IuryDiasCoelho/assets/148260236/cc732923-d296-49e0-97fc-66c20b63cdb3">
+<img align="right" alt="perfil" height="250" style="border-radius:50px;" src="https://github.com/IuryDiasCoelho/IuryDiasCoelho/blob/main/caricatura.jpeg">
 
 🎯 **Objetivo:** Conquistar minha **primeira vaga de estágio na área de Tecnologia da Informação**
 
