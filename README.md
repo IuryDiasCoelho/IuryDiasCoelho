@@ -39,7 +39,6 @@ Tenho foco em **aprendizado contínuo**, gosto de resolver problemas e estou sem
 - ✔️ Facilidade de aprendizado e adaptação  
 - ✔️ Organização e responsabilidade  
 - ✔️ Foco em resultados e evolução técnica  
-- ✔️ Disponível para transição à vida civil  
 
 ---
 
